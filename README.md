@@ -18,7 +18,7 @@ Aplicația **Lista Obiective** a fost creată tocmai pentru a veni în sprijinul
 
 ---
 
-## 📱 Despre Aplicație
+##  Despre Aplicație
 
 **Lista Obiective** este o aplicație mobilă Android concepută pentru gestionarea eficientă a sarcinilor și obiectivelor zilnice. Interfața modernă și curată asigură o experiență plăcută de utilizare, permițându-ți să te concentrezi pe ceea ce contează cu adevărat.
 
