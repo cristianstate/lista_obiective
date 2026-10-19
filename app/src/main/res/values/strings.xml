@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista obiective</string>
+    <string name="header_title">📝 Lista obiective</string>
+    <string name="hint_add_task">Adaugă un nou obiectiv&#8230;</string>
+    <string name="btn_add">Adaugă</string>
+    <string name="empty_state_text">Nu ai nimic momentan. Adaugă un obiectiv 🎉</string>
+    <string name="delete_task">Șterge obiectiv</string>
+    <string name="toast_empty_input">Te rugăm să introduci un obiectiv!</string>
+    <string name="toast_task_deleted">Obiectiv șters!</string>
+</resources>
